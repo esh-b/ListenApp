@@ -1,0 +1,239 @@
+[
+    {
+        "outputFile": "C:\\Users\\Eshwanth\\Downloads\\Cognitive-Speech-STT-Android-master\\Cognitive-Speech-STT-Android-master\\samples\\SpeechRecoExample\\build\\intermediates\\res\\merged\\arm\\release\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "C:\\Users\\Eshwanth\\Downloads\\Cognitive-Speech-STT-Android-master\\Cognitive-Speech-STT-Android-master\\samples\\SpeechRecoExample\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 89,
+                        "endColumn": 57,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "C:\\Users\\Eshwanth\\Downloads\\Cognitive-Speech-STT-Android-master\\Cognitive-Speech-STT-Android-master\\samples\\SpeechRecoExample\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 55,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 52,
+                    "endOffset": 217
+                },
+                "from": {
+                    "file": "C:\\Users\\Eshwanth\\Downloads\\Cognitive-Speech-STT-Android-master\\Cognitive-Speech-STT-Android-master\\samples\\SpeechRecoExample\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 943,
+                        "endColumn": 52,
+                        "endOffset": 991
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 222,
+                    "endColumn": 157,
+                    "endOffset": 375
+                },
+                "from": {
+                    "file": "C:\\Users\\Eshwanth\\Downloads\\Cognitive-Speech-STT-Android-master\\Cognitive-Speech-STT-Android-master\\samples\\SpeechRecoExample\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 583,
+                        "endColumn": 157,
+                        "endOffset": 736
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 380,
+                    "endColumn": 85,
+                    "endOffset": 461
+                },
+                "from": {
+                    "file": "C:\\Users\\Eshwanth\\Downloads\\Cognitive-Speech-STT-Android-master\\Cognitive-Speech-STT-Android-master\\samples\\SpeechRecoExample\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 497,
+                        "endColumn": 85,
+                        "endOffset": 578
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 466,
+                    "endColumn": 77,
+                    "endOffset": 539
+                },
+                "from": {
+                    "file": "C:\\Users\\Eshwanth\\Downloads\\Cognitive-Speech-STT-Android-master\\Cognitive-Speech-STT-Android-master\\samples\\SpeechRecoExample\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 865,
+                        "endColumn": 77,
+                        "endOffset": 938
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 544,
+                    "endColumn": 51,
+                    "endOffset": 591
+                },
+                "from": {
+                    "file": "C:\\Users\\Eshwanth\\Downloads\\Cognitive-Speech-STT-Android-master\\Cognitive-Speech-STT-Android-master\\samples\\SpeechRecoExample\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 742,
+                        "endColumn": 51,
+                        "endOffset": 789
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 596,
+                    "endColumn": 69,
+                    "endOffset": 661
+                },
+                "from": {
+                    "file": "C:\\Users\\Eshwanth\\Downloads\\Cognitive-Speech-STT-Android-master\\Cognitive-Speech-STT-Android-master\\samples\\SpeechRecoExample\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 794,
+                        "endColumn": 69,
+                        "endOffset": 859
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 666,
+                    "endColumn": 71,
+                    "endOffset": 733
+                },
+                "from": {
+                    "file": "C:\\Users\\Eshwanth\\Downloads\\Cognitive-Speech-STT-Android-master\\Cognitive-Speech-STT-Android-master\\samples\\SpeechRecoExample\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 351,
+                        "endColumn": 71,
+                        "endOffset": 418
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 738,
+                    "endColumn": 73,
+                    "endOffset": 807
+                },
+                "from": {
+                    "file": "C:\\Users\\Eshwanth\\Downloads\\Cognitive-Speech-STT-Android-master\\Cognitive-Speech-STT-Android-master\\samples\\SpeechRecoExample\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 423,
+                        "endColumn": 73,
+                        "endOffset": 492
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 812,
+                    "endLine": 18,
+                    "endColumn": 12,
+                    "endOffset": 1098
+                },
+                "from": {
+                    "file": "C:\\Users\\Eshwanth\\Downloads\\Cognitive-Speech-STT-Android-master\\Cognitive-Speech-STT-Android-master\\samples\\SpeechRecoExample\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1103,
+                    "endLine": 21,
+                    "endColumn": 12,
+                    "endOffset": 1258
+                },
+                "from": {
+                    "file": "C:\\Users\\Eshwanth\\Downloads\\Cognitive-Speech-STT-Android-master\\Cognitive-Speech-STT-Android-master\\samples\\SpeechRecoExample\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 665
+                    }
+                }
+            }
+        ]
+    }
+]

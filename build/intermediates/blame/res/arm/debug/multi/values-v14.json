@@ -1,0 +1,28 @@
+[
+    {
+        "outputFile": "C:\\Users\\Eshwanth\\Downloads\\Cognitive-Speech-STT-Android-master\\Cognitive-Speech-STT-Android-master\\samples\\SpeechRecoExample\\build\\intermediates\\res\\merged\\arm\\debug\\values-v14\\values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 201
+                },
+                "from": {
+                    "file": "C:\\Users\\Eshwanth\\Downloads\\Cognitive-Speech-STT-Android-master\\Cognitive-Speech-STT-Android-master\\samples\\SpeechRecoExample\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 220,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 366
+                    }
+                }
+            }
+        ]
+    }
+]

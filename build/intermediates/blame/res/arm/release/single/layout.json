@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Eshwanth\\Downloads\\Cognitive-Speech-STT-Android-master\\Cognitive-Speech-STT-Android-master\\samples\\SpeechRecoExample\\build\\intermediates\\res\\merged\\arm\\release\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Eshwanth\\Downloads\\Cognitive-Speech-STT-Android-master\\Cognitive-Speech-STT-Android-master\\samples\\SpeechRecoExample\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Eshwanth\\Downloads\\Cognitive-Speech-STT-Android-master\\Cognitive-Speech-STT-Android-master\\samples\\SpeechRecoExample\\build\\intermediates\\res\\merged\\arm\\release\\layout\\type_message_area.xml",
+        "source": "C:\\Users\\Eshwanth\\Downloads\\Cognitive-Speech-STT-Android-master\\Cognitive-Speech-STT-Android-master\\samples\\SpeechRecoExample\\res\\layout\\type_message_area.xml"
+    },
+    {
+        "merged": "C:\\Users\\Eshwanth\\Downloads\\Cognitive-Speech-STT-Android-master\\Cognitive-Speech-STT-Android-master\\samples\\SpeechRecoExample\\build\\intermediates\\res\\merged\\arm\\release\\layout\\activity_welcome.xml",
+        "source": "C:\\Users\\Eshwanth\\Downloads\\Cognitive-Speech-STT-Android-master\\Cognitive-Speech-STT-Android-master\\samples\\SpeechRecoExample\\res\\layout\\activity_welcome.xml"
+    }
+]
